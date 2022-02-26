@@ -3,6 +3,13 @@ body {
     color: whitesmoke;
     font-family: Roboto Mono, monospace;
 }
+a
+{
+    color: #43737e;
+    text-decoration: none;
+}
+
+/* Nav Bar  */
 nav ul
 {
     display: flex;
@@ -34,3 +41,44 @@ nav ul li a:hover
 nav .active{
     color: #43737e;
 }
+
+/* End of Nav Bar */
+
+
+
+/* Brief story about me */
+.container1
+{
+    position: relative;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-left: 2px solid whitesmoke;
+    padding: 40px;
+    border-left-color: #43737e;
+   
+}
+
+
+.col1
+{
+    width: 50%;
+}
+
+.col1 h3
+{
+    color: blanchedalmond;
+    font-size: 50px;
+
+}
+
+.col1 span
+{
+    color: yellow;
+}
+
+
+
+
+
+/* End of  Brief story about me */
+
