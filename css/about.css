@@ -292,6 +292,7 @@ nav .active{
 {
     color: blanchedalmond;
     font-size: 50px;
+    margin-left: 5%;
 }
 
 
@@ -336,6 +337,10 @@ nav .active{
     color: yellow;
     font-size: 17px;
 
+}
+.school
+{
+    display: none;
 }
 
 

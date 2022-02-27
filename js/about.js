@@ -17,6 +17,12 @@ const btn5 = document.getElementById("cna");
 const btn6 = document.getElementById("gk");
 
 
+const info4 = document.getElementById("ms1");
+const info5 = document.getElementById("cna1");
+const info6 = document.getElementById("gk1");
+
+
+
 //End of Education
 
 
@@ -72,4 +78,80 @@ function showGti()
         info3.style.display = "none";
     }
 }
+
+
+
+
+
+
+
+// Education 
+// const btn4 = document.getElementById("ms");
+// const btn5 = document.getElementById("cna");
+// const btn6 = document.getElementById("gk");
+
+
+// const info4 = document.getElementById("ms1");
+// const info5 = document.getElementById("cna1");
+// const info6 = document.getElementById("gk1");
+
+btn4.addEventListener("click", showMs);
+
+function showMs()
+{
+    if(info4.style.display === "none")
+    {
+        info4.style.display = "block";
+        info5.style.display = "none";
+        info6.style.display = "none";
+
+
+    }
+    else
+    {
+        info4.style.display = "none";
+    }
+}
+
+
+
+btn5.addEventListener("click", showCna);
+
+function showCna()
+{
+    if(info5.style.display === "none")
+    {
+        info4.style.display = "none";
+        info5.style.display = "block";
+        info6.style.display = "none";
+    }
+    else
+    {
+        info5.style.display = "none";
+    }
+}
+
+
+
+
+
+
+
+btn6.addEventListener("click", showGk);
+
+function showGk()
+{
+    if(info6.style.display === "none")
+    {
+        info4.style.display = "none";
+        info5.style.display = "none";
+        info6.style.display = "block";
+    }
+    else
+    {
+        info6.style.display = "none";
+    }
+}
+
+
 
