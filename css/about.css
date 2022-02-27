@@ -51,17 +51,39 @@ nav .active{
 {
     position: relative;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 2%;
     border-left: 2px solid whitesmoke;
     padding: 40px;
     border-left-color: #43737e;
+    display: flex;
+    width: 100;
    
 }
+
+
+
+
+.col2
+{
+    width: 50%;
+}
+
+.col2 img
+{
+    width: 30%;
+    margin-left: 25%;
+
+}
+
+
+
+
 
 
 .col1
 {
     width: 50%;
+
 }
 
 .col1 h3
@@ -75,6 +97,91 @@ nav .active{
 {
     color: yellow;
 }
+
+
+
+/* Skills */
+
+.progress
+{
+    margin-top: 5%;
+    padding: 10px;
+    height: 50%;
+}
+.html
+{
+    width: 50%;
+    height: 5%;
+    background-color: black;
+    border: 2px solid #43737e;
+    border-radius: 15px;
+
+}
+.html1
+{
+    width: 90%;
+    height: 70%;
+    background-color: yellow;
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
+
+.css
+{
+    width: 50%;
+    height: 5%;
+    background-color: black;
+    border: 2px solid #43737e;
+    border-radius: 15px;
+
+}
+.css1
+{
+    width: 80%;
+    height: 70%;
+    background-color: yellow;
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
+
+
+.javs
+{
+    width: 50%;
+    height: 5%;
+    background-color: black;
+    border: 2px solid #43737e;
+    border-radius: 15px;
+
+}
+.javs1
+{
+    width: 70%;
+    height: 70%;
+    background-color: yellow;
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
+
+.php
+{
+    width: 50%;
+    height: 5%;
+    background-color: black;
+    border: 2px solid #43737e;
+    border-radius: 15px;
+
+}
+.php1
+{
+    width: 60%;
+    height: 70%;
+    background-color: yellow;
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
+
+
 
 
 
