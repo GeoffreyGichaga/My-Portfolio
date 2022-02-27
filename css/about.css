@@ -203,16 +203,20 @@ nav .active{
 
 }
 
-.row1 h3
-{
-    font-size: 50px;
-}
+
 
 
 .row1 h3
 {
     color: blanchedalmond;
     font-size: 50px;
+
+
+}
+
+.row1 h3:hover
+{
+    /* transition: transform y(-10); */
 
 }
 
@@ -261,6 +265,7 @@ nav .active{
 .row1 .exps button:hover{
     border-left: 2px solid #5dd0b8;
     color: #5dd0b8;
+    background-color: #0a192f;
 }
 
 
@@ -270,9 +275,70 @@ nav .active{
 }
 
 
-.work
-{
-    display: none;
-}
+
 /* End of experience */
+
+
+
+
+/* Education */
+/* s */
+.container3 .row3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+}
+.container3 h3
+{
+    color: blanchedalmond;
+    font-size: 50px;
+}
+
+
+.container3 h3 span
+{
+    color: yellow;
+    
+}
+
+.row3 .col1{
+    border-left: 2px solid #43737e;
+}
+
+.row3 .col1 button{
+    padding: 10px;
+    background-color: transparent;
+    color: whitesmoke;
+    border-radius: 2px;
+    border: none;
+    margin-bottom: 20px;
+    font-family: Roboto Mono, monospace;
+    font-size: 20px;
+}
+
+.row3 .col1 button:hover{
+    border-left: 2px solid #5dd0b8;
+    color: #5dd0b8;
+    background-color: #0a192f;
+}
+
+
+
+.row3 .col2 h4{
+    color: #43737e;
+    font-size: 20px;
+
+
+}
+
+.row3 .col2 i
+{
+    color: yellow;
+    font-size: 17px;
+
+}
+
+
+
+/* End of Education */
 

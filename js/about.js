@@ -1,3 +1,5 @@
+//Experience
+
 //buttons to display data
 const btn1 = document.getElementById("zanbtn");
 const btn2 = document.getElementById("bglowbtn");
@@ -7,7 +9,15 @@ const btn3 = document.getElementById("gtibtn");
 const info1 = document.getElementById("za");
 const info2 = document.getElementById("bglow");
 const info3 = document.getElementById("gti");
+//End of Experience
 
+// Education 
+const btn4 = document.getElementById("ms");
+const btn5 = document.getElementById("cna");
+const btn6 = document.getElementById("gk");
+
+
+//End of Education
 
 
 btn1.addEventListener("click", showZan)
