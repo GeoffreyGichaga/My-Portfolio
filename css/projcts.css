@@ -34,3 +34,46 @@ nav ul li a:hover
 nav .active{
     color: #43737e;
 }
+
+
+
+/*  */
+.container1
+{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.row1
+{
+    padding: 20px;
+
+    border-left: 2px solid #43737e;
+    border-bottom: 2px solid #43737e;
+}
+
+
+.row1 h3
+{
+    color: blanchedalmond;
+    font-size: 50px;
+
+}
+
+.row1 h3 span
+{
+    color: yellow;
+}
+
+.row1 p 
+{
+    font-size: 17px;
+}
+
+
+.row1 p span 
+{
+    color: yellow;
+}
+
+/*  */
