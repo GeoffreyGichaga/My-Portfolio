@@ -44,7 +44,7 @@ with the following view on a desktop mode display:
 
 
 ## Known Bugs
-The site is not responsive for screens larger that 1200px
+The site is not responsive for screens smaller than 700px
 
 ## Technologies Used
 Languages used in developing this site include:
