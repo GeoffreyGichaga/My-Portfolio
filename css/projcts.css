@@ -3,6 +3,12 @@ body {
     color: whitesmoke;
     font-family: Roboto Mono, monospace;
 }
+nav img
+{
+    width: 10%;
+    margin-left: auto;
+    display: none;
+}
 nav ul
 {
     display: flex;
@@ -338,3 +344,72 @@ nav .active{
 
 
 /* End of card3 */
+
+
+
+
+
+@media only screen and (min-width: 250px) and (max-width: 770px){
+    body
+    {
+        overflow-x: hidden;
+    }
+    nav img{
+        width: 8%;
+        display: block;
+        margin-left: auto;
+        
+    }
+    
+    nav ul
+    {
+        display: none;
+        flex-direction: column;
+    }
+
+    .card1
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .card2
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .card3
+    {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card1 .col1
+    {
+        width: 100%;
+    }
+    .card1 .col2
+    {
+        width: 100%;
+    }
+
+
+    .card2 .col1
+    {
+        width: 100%;
+    }
+    .card2 .col2
+    {
+        width: 100%;
+    }
+
+
+    .card3 .col1
+    {
+        width: 100%;
+    }
+    .card3 .col2
+    {
+        width: 100%;
+    }
+    
+    }
