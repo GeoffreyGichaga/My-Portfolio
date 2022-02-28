@@ -26,6 +26,14 @@ const info6 = document.getElementById("gk1");
 //End of Education
 
 
+
+// NavBar
+const btn7 = document.getElementById("menuicon");
+const navBar = document.getElementById("navM");
+
+// End of Nav Bar
+
+
 btn1.addEventListener("click", showZan)
 
 function showZan()
@@ -154,4 +162,22 @@ function showGk()
 }
 
 
+
+
+
+// NavBar
+
+btn7.addEventListener("click", showNav);
+
+function showNav()
+{
+    if(navBar.style.display === "none")
+    {
+        navBar.style.display = "block";
+    }
+    else
+    {
+        navBar.style.display = "none";
+    }
+}
 

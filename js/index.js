@@ -14,3 +14,9 @@ function showNav()
         navBar.style.display = "none";
     }
 }
+
+
+
+
+
+
