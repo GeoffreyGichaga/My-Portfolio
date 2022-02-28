@@ -19,7 +19,7 @@ The site basicaly  provides users with information about who a i am ,education ,
 It has 7 sections on the landing page each with different information.
 with the following view on a desktop mode display:
 ### LandingPage
-![part1](./images/part1.png)
+![part1](./images/sc4.png)
 ### About Me 
 ![part1](./images/sc2.png)
 
