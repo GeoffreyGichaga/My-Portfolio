@@ -1,19 +1,50 @@
-# Portfolio
+# Triple G Insurance website
 #### 28/02/2022
-This is a basic html/css website for my portfolio
+This is a basic html/css website for my Portfolio
 #### By 
 Geoffrey Gichaga .G
+
+## Table of Content
+
++ [Description](#description)
++ [Installation Requirement](#Installation)
++ [Known Bugs](#Known-Bugs)
++ [Technology Used](#technology-used)
++ [Support and Contact Details](#Support-and-contact-details)
++ [Authors Info](#author-Info)
+
 ## Description
-This is a school project where we were tasked to come up with a portfolio site
-The site basically  gives infomation about who I am ,work experience ,education and the projects i have worked on.
+This is a school Project where we were tasked to come up with a portfolio site.
+The site basicaly  provides users with information about who a i am ,education ,work experience and Projects background.
+It has 7 sections on the landing page each with different information.
+with the following view on a desktop mode display:
+### LandingPage
+![part1](./images/part1.png)
+### About Me 
+![part1](./images/sc2.png)
+
+### Projects
+![part1](./images/sc3.png)
+
+### Contacts Me
+![part1](./images/sc1.png)
+
+
+
+
+
+
+
+ 
 
 ## Setup/Installation Requirements
-* SIte can be accessed through this link !(Live Link)[geoffreygichaga.github.io/my-portfolio/]
+* SIte can be accessed through the repo live link
 * A phone .tablet or a desktop computer
+* Site is responsive to screens of upto 1200px
 
 
 ## Known Bugs
-The site is not responsive yet on all devices and can only display correctly on a full screen descktop mode.
+The site is not responsive for screens larger that 1200px
 
 ## Technologies Used
 Languages used in developing this site include:
@@ -21,9 +52,13 @@ Languages used in developing this site include:
 * CSS
 * Javascript
 ## Support and contact details
-You can report any issue you encounter with the site on :geoffrey.githinji@student.moringaschool.com
+You can report any issue you encounter with the site on [Email](geoffrey.githinji@student.moringaschool.com)
 
 
 ### Copyright (c) {year}
 copyright (c) 2022.All rights reserved.
-  
+
+
+## Authors Info
+LinkedIn - [Geoffrey Gichaga .G](https://www.linkedin.com/in/geoffrey-gichaga-234318ba/)
+
