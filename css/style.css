@@ -3,8 +3,10 @@ body {
     background-color: black;
     color: whitesmoke;
     font-family: Roboto Mono, monospace;
-    /* background-image: url("../images/fallingstar.jpg");
-    background-size: cover; */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url("../images/wp96.jpg");
+   
+    background-size: cover;
+    
 }
 nav ul
 {
